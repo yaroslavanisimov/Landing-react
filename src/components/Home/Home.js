@@ -4,6 +4,10 @@ import logo from '../../logo.svg'
 
 
 const Home = ({ company }) => (
+
+
+
+
 	<main className="main">
 		<div className="container">
 			<hgroup className="title">
